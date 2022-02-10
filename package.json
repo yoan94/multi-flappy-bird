@@ -22,7 +22,7 @@
         "@types/node": "^13.7.0",
         "@types/socket.io-client": "^1.4.32",
         "concurrently": "^5.1.0",
-        "node-sass": "^4.13.1",
+        "node-sass": "^7.0.0",
         "postcss-loader": "^3.0.0",
         "pug": "^3.0.1",
         "pug-plain-loader": "^1.0.0",
