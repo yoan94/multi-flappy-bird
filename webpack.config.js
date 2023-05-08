@@ -59,9 +59,7 @@ Encore
     })
 
     // enables Sass/SCSS support
-    .enableSassLoader(function (options) {
-        options.outputStyle = "compressed"
-    })
+    .enableSassLoader()
 
     // uncomment if you use TypeScript
 
